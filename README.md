@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZhilinLee
+- 👋 Hi, I’m @Zhilin Li
 - 👀 I’m interested in Deeplearning/Image processing
 - 🌱 I’m currently learning Digital image processing
 - 💞️ I’m looking to collaborate on ...
